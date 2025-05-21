@@ -1,4 +1,4 @@
-FROM cm2network/steamcmd
+FROM sonroyaalmerol/steamcmd-arm64
 
 ARG metamod_version=1.20
 ARG amxmod_version=1.8.2
